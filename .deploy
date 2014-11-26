@@ -1,0 +1,4 @@
+# Setup the directories
+TEST_DIR="/o/libraries/tableexport"
+DEV_DIR="/p/libraries/tableexport"
+PROD_DIR="/q/libraries/tableexport"

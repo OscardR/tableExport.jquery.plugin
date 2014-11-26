@@ -330,8 +330,8 @@ THE SOFTWARE.*/
 						
 					});					
 										
-					// Output as Data URI
-					doc.output('datauri');
+					// Output as string
+					doc.output();
 	
 				}
 				
